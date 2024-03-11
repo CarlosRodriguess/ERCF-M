@@ -6,6 +6,7 @@ The LEDs come from an SK6812 type LED strip 60 LEDs / meter, RGBW IP30 color, to
 https://a.aliexpress.com/_Evdog0v
 
 Example for pogo DIP version, 
+
 male;
 https://a.aliexpress.com/_EvUTru5
 
