@@ -7,8 +7,8 @@ https://a.aliexpress.com/_Evdog0v
 
 Example for pogo DIP version, 
 
-male;
+male (5,5mm, 3 pins);
 https://a.aliexpress.com/_EvUTru5
 
-Female;
+Female (3 pins);
 https://a.aliexpress.com/_ExLSlKD
